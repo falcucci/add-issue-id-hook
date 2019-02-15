@@ -37,7 +37,7 @@ This plugin requires having Python 2.x or Python 3.x installed (comes pre-instal
 
 ```bash
 cd my-repo
-curl https://raw.githubusercontent.com/pbetkier/add-issue-id-hook/master/commit-msg -o ./.git/hooks/commit-msg && chmod +x ./.git/hooks/commit-msg
+curl https://raw.githubusercontent.com/falcucci/add-issue-id-hook/master/commit-msg -o ./.git/hooks/commit-msg && chmod +x ./.git/hooks/commit-msg
 ```
 
 ### Global installation
